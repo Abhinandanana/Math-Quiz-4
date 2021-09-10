@@ -1,0 +1,38 @@
+body
+{
+	background-image: url("https://ugc.futurelearn.com/uploads/images/17/07/header_17071f0e-00ec-4f6e-b2ba-d4ffdc29fb56.jpg");
+	background-size: cover;
+	padding: 10px;
+}
+
+#Math1
+	{
+		background-image: linear-gradient(to right top, #0ae3f4, #00c2ff, #009cff, #006fff, #1225eb);
+		padding: 20px;
+		float: none;
+		border-radius: 15px;
+	}
+
+	#math
+	{
+		color: white;
+	}
+
+	#sign_in
+	{
+		background-image: linear-gradient(to right top, #0ae3f4, #00c2ff, #009cff, #006fff, #1225eb);
+		width: 25%;
+		font-size: 23px;
+		font-weight: bold;
+		border-radius: 15px;
+		color: white;
+	}
+	#data
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid blue;
+padding: 10px;
+float: none;
+text-align: left;
+}
